@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>jQuery-Validation.NuGet</id>
+    <version>1.15.1</version>
+    <authors>Jörn Zaefferer</authors>
+    <owners></owners>
+    <licenseUrl>https://jqueryvalidation.org/</licenseUrl>
+    <projectUrl>https://jqueryvalidation.org/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The jQuery Validation Plugin provides drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.</description>
+    <releaseNotes>Contains js source.</releaseNotes>
+    <copyright>(c) 2016 Jörn Zaefferer</copyright>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
